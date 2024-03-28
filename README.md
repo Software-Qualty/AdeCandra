@@ -1,8 +1,8 @@
 # Daftar Pengujian
 
-| No  | Judul Projek                                     | Introduction                                                               | Audience | Nama Pengujian                  | Link SQA                                                                                             |
-| --- | ------------------------------------------------ | -------------------------------------------------------------------------- | -------- | ------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 1   | [Trensentimen Apps](https://trensentimen.my.id/) | Ini adalah aplikasi yang dapat menganalisis sentimen dari komentar youtube | User     | Pengujian1-RegisterSentimenlist | [pengujian1](https://software-qualty.github.io/erditona/SentimenAnalisisApp/Test-deleteSentimenlist) |
+| No  | Judul Projek                                     | Introduction                                                               | Audience | Nama Pengujian                  | Link SQA                                                                      |
+| --- | ------------------------------------------------ | -------------------------------------------------------------------------- | -------- | ------------------------------- | ----------------------------------------------------------------------------- |
+| 1   | [Trensentimen Apps](https://trensentimen.my.id/) | Ini adalah aplikasi yang dapat menganalisis sentimen dari komentar youtube | User     | Pengujian1-RegisterSentimenlist | [pengujian1](https://software-qualty.github.io/AdeCandra/SentimenAnalisisApp) |
 
 # Panduan Penggunaan
 
@@ -31,7 +31,7 @@ Sebelum menggunakan kode ini, pastikan Anda telah memenuhi persyaratan berikut:
 
 ## Penggunaan
 
-1. Buka file `namafile.py` dan lakukan modifikasi sesuai dengan kebutuhan Anda, seperti URL halaman web yang ingin diuji, informasi login, dll.
+1. Buka file `namafile.py` dan lakukan modifikasi sesuai dengan kebutuhan Anda, seperti URL halaman web yang ingin diuji, informasi login, register, dll.
 
 2. Jalankan pengujian dengan menjalankan perintah berikut di terminal:
 
